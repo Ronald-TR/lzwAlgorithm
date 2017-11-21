@@ -1,2 +1,2 @@
 # lzwAlgorithm
-An encoder and decoder for lzwAlgorithm
+An encoder and decoder class for LZW Algorithm
